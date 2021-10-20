@@ -1,6 +1,7 @@
 package com.nttdata.bootcamp;
 
 public class Saludo {
+
 	private String idioma;
 	
 	public Saludo(String idioma) {
